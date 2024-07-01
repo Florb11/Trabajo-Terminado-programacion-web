@@ -29,11 +29,8 @@ body {
 	border-bottom: 1px solid;
     border-image: linear-gradient(to right,#00000000, #00000000, #26c5da00, #ffffff41, #ffffff4b, #ffffff36, #00000000)1;
 }
-.logo{
-    font-size: 25px;
-    color: aliceblue;
-	
-}
+
+
 .navigation ul{
     list-style: none;
 
